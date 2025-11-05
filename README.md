@@ -124,7 +124,15 @@ Output filenames:
 - `short_{idx}_{start}-{end}.mp4` for original aspect
 - `short_{idx}_{start}-{end}_v916.mp4` for 9:16 tiles mode
 - `short_{idx}_{start}-{end}_v916_focus.mp4` for 9:16 speaker-focused mode
-- When captions are burned, a `_cap` suffix is added (e.g., `_v916_focus_cap.mp4`).
+- When captions are burned, a `_cap` suffix is added (e.g., `_v916_focus_cap.mp4`)
+
+## Sample outputs
+
+Check out example outputs in the `outputs/` folder:
+- `short_01_575-630_v916.mp4` - 9:16 vertical clip without captions
+- `short_01_575-630_v916_cap.mp4` - 9:16 vertical clip with burned-in captions
+
+Sample source video available in `downloads/` folder.
 
 ## Limitations & Next steps
 
