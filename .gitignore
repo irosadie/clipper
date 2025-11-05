@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+.env
+
+# OS
+.DS_Store
+
+# Tools
+.pytest_cache/
+.mypy_cache/
+
+# Project outputs
+downloads/
+outputs/
+*.m4a
+
+# Editors
+.vscode/
+.idea/
