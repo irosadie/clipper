@@ -126,17 +126,11 @@ Output filenames:
 - `short_{idx}_{start}-{end}_v916_focus.mp4` for 9:16 speaker-focused mode
 - When captions are burned, a `_cap` suffix is added (e.g., `_v916_focus_cap.mp4`)
 
-## Sample outputs
+## Sample output
 
-Check out example outputs in the `outputs/` folder:
+9:16 vertical clip with burned-in captions:
 
-### 9:16 vertical clip with burned-in captions
-https://github.com/irosadie/clipper/assets/outputs/short_01_575-630_v916_cap.mp4
-
-### 9:16 vertical clip without captions
-https://github.com/irosadie/clipper/assets/outputs/short_01_575-630_v916.mp4
-
-Sample source video available in `downloads/` folder.
+https://github.com/user-attachments/assets/c24d33df-6311-4e0e-9cc3-578d3d5aeeed
 
 ## Limitations & Next steps
 
